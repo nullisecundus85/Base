@@ -1,0 +1,13 @@
+{
+  "name": "12-Week Recomp App",
+  "short_name": "RecompPWA",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Track your training, stack, and nutrition for body recomposition.",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
